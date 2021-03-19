@@ -12,9 +12,9 @@ CSS snippet from a WP website I created featuring a rotating wheel.
 #wheel img {
 	display: block;
 	margin-left: auto;
-    margin-right: auto;
+    	margin-right: auto;
 	animation: rotation 30s infinite linear;
-}
+	}
 
 @keyframes rotation {
   from {
