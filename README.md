@@ -4,7 +4,7 @@ CSS snippet from a WP website I created featuring a rotating wheel.
 
 ## Demo
 
-![rotating wheel](wheel/rotating_wheel.gif)
+![rotating wheel](https://github.com/ujvvar/wheel/blob/main/rotating_wheel.gif)
 
 ## Snippet
 
