@@ -3,7 +3,7 @@
 	margin-left: auto;
   	margin-right: auto;
 	animation: rotation 30s infinite linear;
-}
+	}
 
 @keyframes rotation {
   from {
